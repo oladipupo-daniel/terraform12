@@ -22,3 +22,5 @@ resource "aws_vpc" "fin_core_vpc" {
     Environment = "Production"
   }
 }
+
+# This is just a sample Terraform configuration for creating an AWS VPC. You can customize the CIDR block, tags, and other parameters as needed for your specific use case.
